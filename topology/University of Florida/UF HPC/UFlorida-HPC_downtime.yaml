@@ -205,3 +205,36 @@
   - Squid
   Severity: Outage
   StartTime: Apr 26, 2018 13:00 PM UTC
+- Class: SCHEDULED
+￼   ID: 40664826
+￼   Description: OS update
+￼   Severity: Outage
+￼   StartTime: Oct 10, 2018 13:00 +0000
+￼   EndTime: Oct 10, 2018 21:00 +0000
+￼   CreatedTime: Oct 09, 2018 01:28 +0000
+￼   ResourceName: UFlorida-HPC
+￼   Services:
+￼   - CE
+# ---------------------------------------------------------  
+- Class: SCHEDULED
+  ID: 40671379
+  Description: OS update
+  Severity: Outage
+  StartTime: Oct 11, 2018 13:00 +0000
+  EndTime: Oct 11, 2018 21:00 +0000
+  CreatedTime: Oct 09, 2018 01:38 +0000
+  ResourceName: UFlorida-HPG2
+  Services:
+  - CE
+# ---------------------------------------------------------
+- Class: SCHEDULED
+  ID: 40673354
+  Description: OS update
+  Severity: Outage
+  StartTime: Oct 11, 2018 13:00 +0000
+  EndTime: Oct 11, 2018 21:00 +0000
+  CreatedTime: Oct 09, 2018 01:42 +0000
+  ResourceName: UFlorida-CMS
+  Services:
+  - CE
+# ---------------------------------------------------------
