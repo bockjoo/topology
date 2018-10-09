@@ -28,6 +28,17 @@
     # Additional services if there are any...
     # - GridFTP
     # - SRMv2
+- Class: SCHEDULED
+  ID: 40664826
+  Description: OS update
+  Severity: Outage
+  StartTime: Oct 10, 2018 13:00 +0000
+  EndTime: Oct 10, 2018 21:00 +0000
+  CreatedTime: Oct 09, 2018 01:28 +0000
+  ResourceName: UFlorida-HPC
+  Services:
+  - CE
+# ---------------------------------------------------------
 # Additional downtimes can be added
 # - Class: UNSCHEDULED
 #   ...
