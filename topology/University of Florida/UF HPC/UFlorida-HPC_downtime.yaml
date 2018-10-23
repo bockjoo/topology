@@ -266,3 +266,15 @@
   Severity: Outage
   StartTime: Sep 3, 2018 05:00 +0000
 # ----------------------------------------------------------
+- Class: UNSCHEDULED
+  ID: 53184077
+  Description: A lustre oss is down due to a hardware issue. This affects all CEs and
+    this resource ( SE).
+  Severity: Severe
+  StartTime: Oct 23, 2018 13:00 +0000
+  EndTime: Oct 23, 2018 21:00 +0000
+  CreatedTime: Oct 23, 2018 13:13 +0000
+  ResourceName: UFlorida-SLB-GridFTP
+  Services:
+  - GridFtp
+# ---------------------------------------------------------
