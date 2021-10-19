@@ -192,7 +192,7 @@ Resources:
     VOOwnership:
       CMS: 100
     WLCGInformation:
-      APELNormalFactor: 17.14
+      APELNormalFactor: 21.22
       AccountingName: T2_US_Florida
       HEPSPEC: 14000
       InteropAccounting: true
